@@ -1,0 +1,15 @@
+
+.navbar{margin: 0 auto; width: 1080px;}
+.navbar ul {padding: 0px;}
+.navbar ul li {float: left;margin: 0px;position: relative;background-color: darkblue;border-radius: 3px;list-style-type: none;}
+.navbar ul li a {text-decoration: none;color: white;padding: 8px;font-weight: bolder;display: block;width: 200px;text-align: center;}
+.navbar ul li ul {position: absolute;visibility: hidden;}
+.navbar ul li:hover ul{visibility: visible;}
+.navbar ul li a:hover {color: burlywood;}
+body {background-image: url(../gomycode/porsche-911-gt3.jpg);background-size:cover;}
+
+
+h1 {color: red;font-family: Roboto;}
+	
+p{padding: 1em;font-weight: bold}
+.lines{font-weight: bold}
